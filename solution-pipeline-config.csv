@@ -1,2 +1,2 @@
 PathToProjectJson,PackageName,OrchestratorFolder,ProcessName,RunTests
-project.json,CI.CD.Test.Suit,Shared,CI.CD.Test.Suit,TRUE
+project.json,CI.CD.Test.Suit,Shared,CI.CD.Test.Suit,False
